@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300&family=Rubik+Puddles&display=swap');
+
+.add-user{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.add-user-btn{
+    background-color: #d11534;
+    color: #fff;
+    font-size: 1.2rem;
+    float: right;
+}

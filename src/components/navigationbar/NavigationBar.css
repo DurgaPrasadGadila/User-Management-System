@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=swap');
+
+nav{
+    font-family: 'Rubik Puddles', cursive;
+    background-image: linear-gradient(#94989a,#94989a);
+    box-shadow: 1px -1px #1c1e21;
+}
+
+.users-icon,.removed-users-icon{
+    font-size: 1.5rem;
+    margin-right: 8px;
+}
+
+.active .users-icon,.active .removed-users-icon{
+    color:#c6093b;
+    text-shadow: 1px 2px 2px white ;
+}
